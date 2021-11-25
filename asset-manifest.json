@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Nogozo/static/css/main.34337858.chunk.css",
+    "main.js": "/Nogozo/static/js/main.0b307ffa.chunk.js",
+    "main.js.map": "/Nogozo/static/js/main.0b307ffa.chunk.js.map",
+    "runtime-main.js": "/Nogozo/static/js/runtime-main.c00f84ce.js",
+    "runtime-main.js.map": "/Nogozo/static/js/runtime-main.c00f84ce.js.map",
+    "static/js/2.712e0356.chunk.js": "/Nogozo/static/js/2.712e0356.chunk.js",
+    "static/js/2.712e0356.chunk.js.map": "/Nogozo/static/js/2.712e0356.chunk.js.map",
+    "static/js/3.acbadd5f.chunk.js": "/Nogozo/static/js/3.acbadd5f.chunk.js",
+    "static/js/3.acbadd5f.chunk.js.map": "/Nogozo/static/js/3.acbadd5f.chunk.js.map",
+    "index.html": "/Nogozo/index.html",
+    "static/css/main.34337858.chunk.css.map": "/Nogozo/static/css/main.34337858.chunk.css.map",
+    "static/js/2.712e0356.chunk.js.LICENSE.txt": "/Nogozo/static/js/2.712e0356.chunk.js.LICENSE.txt",
+    "static/media/dummy3.40c9f566.jpg": "/Nogozo/static/media/dummy3.40c9f566.jpg",
+    "static/media/logo.61b13070.png": "/Nogozo/static/media/logo.61b13070.png",
+    "static/media/slick-theme.css": "/Nogozo/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c00f84ce.js",
+    "static/js/2.712e0356.chunk.js",
+    "static/css/main.34337858.chunk.css",
+    "static/js/main.0b307ffa.chunk.js"
+  ]
+}
